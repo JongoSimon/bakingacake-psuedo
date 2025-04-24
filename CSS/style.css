@@ -1,0 +1,47 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #333;
+}
+h1 {
+    color: #8B4513;
+    text-align: center;
+    border-bottom: 2px solid #F5DEB3;
+    padding-bottom: 10px;
+}
+h2 {
+    color: #A0522D;
+    margin-top: 30px;
+}
+.ingredients, .tools {
+    background-color: #FFF8DC;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+ul, ol {
+    padding-left: 25px;
+}
+li {
+    margin-bottom: 8px;
+}
+.note {
+    font-style: italic;
+    background-color: #F0F8FF;
+    padding: 10px;
+    border-left: 3px solid #4682B4;
+}
+
+.social-subscribe-container {
+    font-family: 'Arial', sans-serif;
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
