@@ -12,6 +12,12 @@ h1 {
     border-bottom: 2px solid #F5DEB3;
     padding-bottom: 10px;
 }
+p {
+    color: #8B4513;
+    text-align: center;
+    border-bottom: 2px solid #F5DEB3;
+    padding-bottom: 10px;
+}
 h2 {
     color: #A0522D;
     margin-top: 30px;
@@ -28,12 +34,7 @@ ul, ol {
 li {
     margin-bottom: 8px;
 }
-.note {
-    font-style: italic;
-    background-color: #F0F8FF;
-    padding: 10px;
-    border-left: 3px solid #4682B4;
-}
+
 
 .social-subscribe-container {
     font-family: 'Arial', sans-serif;
